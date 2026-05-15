@@ -3,8 +3,6 @@ import blogData from "../data/blog";
 import Header from "./Header";
 import About from "./About";
 import ArticleList from "./ArticleList";
-import blogData from "../data/blog"; // The blog data is here
-
 
 console.log(blogData);
 
